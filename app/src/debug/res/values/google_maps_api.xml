@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=BD:DD:32:9A:48:7E:7A:0F:34:EB:D9:F8:E7:5B:FC:5D:DE:3F:6D:7F%3Bcom.example.ubfac.panicbutton
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    BD:DD:32:9A:48:7E:7A:0F:34:EB:D9:F8:E7:5B:FC:5D:DE:3F:6D:7F
+
+    SHA-1 certificate fingerprint:
+    BD:DD:32:9A:48:7E:7A:0F:34:EB:D9:F8:E7:5B:FC:5D:DE:3F:6D:7F
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAU0jXmPg1IFecKdOuZKso72p9pQnZhLbE</string>
+</resources>
